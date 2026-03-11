@@ -39,7 +39,9 @@ Load Layer
 ▼
 MySQL Database
 ```
+---
 
+## Project Structure
 malysia_task_data/
 │
 ├── data/
