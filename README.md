@@ -23,7 +23,7 @@ The entire solution is containerized using Docker to ensure reproducibility and 
 
 ---
 ## Project Architecture
-```
+
 Raw Data (CSV / JSON)
 │
 ▼
@@ -38,7 +38,6 @@ Load Layer
 │
 ▼
 MySQL Database
-```
 ---
 
 ## Project Structure
