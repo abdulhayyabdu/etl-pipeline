@@ -43,6 +43,8 @@ MySQL Database
 ---
 
 ## Project Structure
+```
+
 malysia_task_data/
 │
 ├── data/
@@ -59,6 +61,7 @@ malysia_task_data/
 ├── Dockerfile
 ├── docker-compose.yml
 └── README.md
+```
 
 ---
 
